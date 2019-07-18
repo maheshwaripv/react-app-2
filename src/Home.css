@@ -1,0 +1,10 @@
+#routes li{
+    display:inline;
+    color: brown;
+    padding: 15px;
+}
+
+#navbar{
+    background-color: palegoldenrod;
+    height: 40px;
+}
