@@ -1,0 +1,35 @@
+[
+    {
+        "bookID":"1",
+        "bookName": "ABC",
+        "Cost": "$34",
+        "src": "../images/one.jpg",
+        "about": "This book is about ABC",
+        "description": "Enjoy a compelling, immersive and experiential journey into the past to learn more about the process of catching and making fish, early education and our affiliation with the sea through a guided tour of the sod houses, church, schoolroom, fish flakes and fishing stage. Leave with a new found appreciation of our ancestors’ qualities of creativity, determination and endurance that they drew on to survive and prosper in a place like this."
+    },
+    {
+        "bookID":"2",
+        "bookName": "DEF",
+        "Cost": "$43",
+        "src": "../images/two.jpg",
+        "about": "This book is about DEF",
+        "description": "Forced to flee England, the Andrews family books passage to a fresh start in a distant country, only to discover a barren, inhospitable land at the end of their crossing. To seventeen-year-old Lavinia, uprooted from everything familiar, it seems a fate worse than the one they left behind. Driven by loneliness she begins a journal. Random Passage satisfies the craving for those details that headstones and history books can never give: the real story of our Newfoundland ancestors, of how time and chance brought them to the forbidding shores of a new found land. It is a saga of families and of individuals; of acquisitive Mary Bundle; of charming Ned Andrews, whose thievery has turned his family into exiles; of mad Ida; of Thomas Hutchings, who might be an aristocrat, a holy man, or a murderer; and of Lavinia - who wrote down the truth and lies about them all. Random Passage has been adapted into a CBC miniseries and is now a national bestseller."
+    },
+    {
+        "bookID":"3",
+        "bookName": "MNO",
+        "Cost": "$54",
+        "src": "../images/three.jpg",
+        "about": "This book is about MNO",
+        "description": "Forced to flee England, the Andrews family books passage to a fresh start in a distant country, only to discover a barren, inhospitable land at the end of their crossing. To seventeen-year-old Lavinia, uprooted from everything familiar, it seems a fate worse than the one they left behind. Driven by loneliness she begins a journal. Random Passage satisfies the craving for those details that headstones and history books can never give: the real story of our Newfoundland ancestors, of how time and chance brought them to the forbidding shores of a new found land. It is a saga of families and of individuals; of acquisitive Mary Bundle; of charming Ned Andrews, whose thievery has turned his family into exiles; of mad Ida; of Thomas Hutchings, who might be an aristocrat, a holy man, or a murderer; and of Lavinia - who wrote down the truth and lies about them all. Random Passage has been adapted into a CBC miniseries and is now a national bestseller."
+    },
+    {
+        "bookID":"4",
+        "bookName": "XYZ",
+        "Cost": "$65",
+        "src": "../images/four.jpg",
+        "about": "This book is about XYZ",
+        "description": "Forced to flee England, the Andrews family books passage to a fresh start in a distant country, only to discover a barren, inhospitable land at the end of their crossing. To seventeen-year-old Lavinia, uprooted from everything familiar, it seems a fate worse than the one they left behind. Driven by loneliness she begins a journal. Random Passage satisfies the craving for those details that headstones and history books can never give: the real story of our Newfoundland ancestors, of how time and chance brought them to the forbidding shores of a new found land. It is a saga of families and of individuals; of acquisitive Mary Bundle; of charming Ned Andrews, whose thievery has turned his family into exiles; of mad Ida; of Thomas Hutchings, who might be an aristocrat, a holy man, or a murderer; and of Lavinia - who wrote down the truth and lies about them all. Random Passage has been adapted into a CBC miniseries and is now a national bestseller."
+    }
+
+]
