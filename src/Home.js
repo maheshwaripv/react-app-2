@@ -16,7 +16,7 @@ class Home extends Component {
               <li><Link to={'/'} >Home</Link></li>
               <li id="rlink"><Link to={'/register'} >Register</Link></li>
               <li id="llink"><Link to={'/login'} > Login </Link></li>
-              <li id="blink" ><Link to={'/books'} > Books </Link></li>
+              {/* <li id="blink"><Link to={'/books'} > Books </Link></li> */}
             </ul>
           </nav>
           <hr />

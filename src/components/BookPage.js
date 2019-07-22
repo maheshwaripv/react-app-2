@@ -7,26 +7,29 @@ const BookPage = ({ match, history }) => {
         params: { bookID }
     } = match;
 
-    const backButton=()=>{
+    const backButton = () => {
         history.goBack();
     }
-   
+
+    var logoutButton = () => {
+        history.push("/login");
+    }
 
     return (
         <React.Fragment>
             <div className="bookDiv">
-                <img src={require('../images/'+bookID+'.jpg')} height="100" width="100" alt="book"/>
-                <br/>
+                <img src={require('../images/' + bookID + '.jpg')} height="100" width="100" alt="book" />
+                <br />
                 <strong>{Books[bookID - 1].bookName}</strong>
-                <br/>
-                {Books[bookID-1].Cost}
-                <br/>
-                <p>{Books[bookID-1].description}</p>
+                <br />
+                {Books[bookID - 1].Cost}
+                <br />
+                <p>{Books[bookID - 1].description}</p>
             </div>
-            <br/>
+            <br />
 
             <button type="submit" onClick={backButton}>Back</button>
-            
+            <button type="button" onClick={logoutButton}>Logout</button>
         </React.Fragment>
 
     );
